@@ -3,3 +3,16 @@
     margin: 0;
     box-sizing: border-box;
 }
+h3, h5 {
+    font-family: 'Titan One', cursive;
+}
+p {
+    font-family: 'Rufina', serif;
+}
+
+.header-text {
+    color: rgb(46, 44, 44);
+}
+.header-text:hover {
+    color: black;
+}
